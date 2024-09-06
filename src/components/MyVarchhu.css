@@ -1,0 +1,26 @@
+@font-face {
+  font-family: digit;
+  src: url('digital-7_mono.ttf') format("truetype");
+}
+
+#mainDiv {
+  /* Your styling here */
+}
+
+#content {
+  /* Your styling here */
+}
+
+#code {
+  /* Your styling here */
+}
+
+#loveHeart {
+  /* Your styling here */
+}
+
+#garden {
+  /* Your canvas styling here */
+}
+
+/* Add the rest of your styles */
