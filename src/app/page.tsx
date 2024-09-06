@@ -1,8 +1,5 @@
 import React from 'react'
-import StarsBackground from '../components/CanvasAnimation'
-import Comet from '../components/Comet'
-import MyVarchhu from '@/components/TextandCount'
-import Background from '@/components/background'
+import Background from '@/components/Background'
 
 function page() {
   return (
